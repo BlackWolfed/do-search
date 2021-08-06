@@ -1,3 +1,5 @@
+[![Website](https://img.shields.io/website?label=root-X.dev&style=for-the-badge&url=https://root-x.dev/)](https://root-x.dev/)
+
 ## What is do-search ?
  ### 🔭 Search anything anytime
  - This is a tool by using Google dorks for advanced searching in Google 
