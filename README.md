@@ -7,7 +7,7 @@
 
 ## install & run
 ```
-git clone ""
+git clone "https://github.com/BlackWolfed/do-search.git"
 ```
 ```
 cd do-search
