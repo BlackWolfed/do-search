@@ -9,13 +9,13 @@
 
 ## install & run
 ```
-git clone "https://github.com/BlackWolfed/do-search.git"
+$ git clone "https://github.com/BlackWolfed/do-search.git"
 ```
 ```
-cd do-search
+$ cd /do-search
 ```
 ```
-python3 do-search.py
+$ python3 do-search.py
 ```
 
 ![do-search](do-search.png)
